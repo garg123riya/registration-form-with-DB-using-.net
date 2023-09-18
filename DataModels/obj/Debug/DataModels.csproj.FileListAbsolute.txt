@@ -1,0 +1,6 @@
+C:\Users\Riya.Gupta2\OneDrive - SEW India\Desktop\final\project\DataModels\bin\Debug\DataModels.dll
+C:\Users\Riya.Gupta2\OneDrive - SEW India\Desktop\final\project\DataModels\bin\Debug\DataModels.pdb
+C:\Users\Riya.Gupta2\OneDrive - SEW India\Desktop\final\project\DataModels\obj\Debug\DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Riya.Gupta2\OneDrive - SEW India\Desktop\final\project\DataModels\obj\Debug\DataModels.dll
+C:\Users\Riya.Gupta2\OneDrive - SEW India\Desktop\final\project\DataModels\obj\Debug\DataModels.pdb
+C:\Users\Riya.Gupta2\OneDrive - SEW India\Desktop\final\project\DataModels\obj\Debug\DataModels.csproj.AssemblyReference.cache
